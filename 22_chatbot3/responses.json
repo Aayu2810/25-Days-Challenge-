@@ -1,0 +1,28 @@
+[
+  {
+    "response": "Hello!",
+    "words": ["hello", "hi", "hey", "sup", "heyo"],
+    "required_words": []
+  },
+  {
+    "response": "See you!",
+    "words": ["bye", "goodbye"],
+    "required_words": []
+  },
+  {
+    "response": "I'm doing fine, and you?",
+    "words": ["how", "are", "you", "doing"],
+    "required_words": ["how"]
+  },
+  {
+    "response": "You're welcome!",
+    "words": ["thank", "thanks"],
+    "required_words": []
+  },
+  {
+    "response": "Same!",
+    "words": ["i", "love", "coding"],
+    "required_words": ["love", "coding"]
+  }
+]
+
